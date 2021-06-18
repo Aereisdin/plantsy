@@ -1,6 +1,6 @@
 # Plantsy -- The Social Community for Plant Lovers
 
-URL: https://limitless-cove-25591.herokuapp.com/
+URL: https://plantsyapp.herokuapp.com/
 
 Git Repository: https://github.com/mradamhorn/plantsy
 
